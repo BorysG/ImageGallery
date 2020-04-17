@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGallery.Search", "ImageGallery.Search\ImageGallery.Search.csproj", "{4D4C09CA-74F9-4F2E-A145-509820FF1D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGallery.Search.DAL", "ImageGallery.Search.DAL\ImageGallery.Search.DAL.csproj", "{EAF6F7E0-EFD4-4B28-A5E1-16CC1A568563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D4C09CA-74F9-4F2E-A145-509820FF1D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4C09CA-74F9-4F2E-A145-509820FF1D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4C09CA-74F9-4F2E-A145-509820FF1D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4C09CA-74F9-4F2E-A145-509820FF1D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF6F7E0-EFD4-4B28-A5E1-16CC1A568563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF6F7E0-EFD4-4B28-A5E1-16CC1A568563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF6F7E0-EFD4-4B28-A5E1-16CC1A568563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF6F7E0-EFD4-4B28-A5E1-16CC1A568563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE096BDF-8B25-4B7B-A1B7-6D37CD7DA8C8}
+	EndGlobalSection
+EndGlobal
